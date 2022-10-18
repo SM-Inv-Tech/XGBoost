@@ -20,26 +20,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25331512-0c47-4327-b037-591081f3a0fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/XGBoost.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/XGBoost.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clean.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../clean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../深入理解XGBoost/深入理解XGBoost-01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../深入理解XGBoost/深入理解XGBoost-01.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="JupyterTrust" id="cef0d55f-01da-47d1-aff2-13a801dcec3b" />
+  <component name="JupyterTrust" id="cef0d55f-01da-47d1-aff2-13a801dcec3b">
+    <option name="files">
+      <option value="../深入理解XGBoost/深入理解XGBoost-02.ipynb" />
+      <option value="../深入理解XGBoost/深入理解XGBoost-03.ipynb" />
+    </option>
+  </component>
   <component name="ProjectId" id="2F4US2bdRCeQ9uulWZdEuSzT1fn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="1" id="新增" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,6 +59,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../深入理解XGBoost" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="clean" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -94,6 +107,8 @@
       <updated>1663750846013</updated>
       <workItem from="1663750848875" duration="493000" />
       <workItem from="1663751533456" duration="1245000" />
+      <workItem from="1665725948664" duration="181000" />
+      <workItem from="1665992500928" duration="5489000" />
     </task>
     <servers />
   </component>
@@ -129,6 +144,10 @@
       <screen x="0" y="28" width="1920" height="1014" />
     </state>
     <state width="1860" height="272" key="GridCell.Tab.0.right/1920.0.1920.1080/0.28.1920.1014@0.28.1920.1014" timestamp="1663752778078" />
+    <state x="396" y="175" key="SettingsEditor" timestamp="1665726009445">
+      <screen x="0" y="28" width="1920" height="1014" />
+    </state>
+    <state x="396" y="175" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1014@0.28.1920.1014" timestamp="1665726009445" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/_$clean.coverage" NAME="clean Coverage Results" MODIFIED="1663752759441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
