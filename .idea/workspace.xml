@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="25331512-0c47-4327-b037-591081f3a0fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../深入理解XGBoost/深入理解XGBoost-01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../深入理解XGBoost/深入理解XGBoost-01.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xgboost-src/demo/guide-python/basic_walkthrough.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xgboost-src/demo/guide-python/basic_walkthrough.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xgboost-src/demo/guide-python/continuation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xgboost-src/demo/guide-python/continuation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="Jupyter Notebook" />
       </list>
     </option>
@@ -40,8 +42,8 @@
   </component>
   <component name="JupyterTrust" id="cef0d55f-01da-47d1-aff2-13a801dcec3b">
     <option name="files">
-      <option value="../深入理解XGBoost/深入理解XGBoost-02.ipynb" />
-      <option value="../深入理解XGBoost/深入理解XGBoost-03.ipynb" />
+      <option value="../xgboost-tutorials/xgboost_tutorials_4.ipynb" />
+      <option value="../xgboost-tutorials/xgboost_tutorials_5.ipynb" />
     </option>
   </component>
   <component name="ProjectId" id="2F4US2bdRCeQ9uulWZdEuSzT1fn" />
@@ -63,6 +65,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../xgboost-tutorials/model" />
       <recent name="$PROJECT_DIR$/../深入理解XGBoost" />
     </key>
   </component>
@@ -109,6 +112,8 @@
       <workItem from="1663751533456" duration="1245000" />
       <workItem from="1665725948664" duration="181000" />
       <workItem from="1665992500928" duration="5489000" />
+      <workItem from="1666144697207" duration="12333000" />
+      <workItem from="1666335001762" duration="5233000" />
     </task>
     <servers />
   </component>
@@ -128,21 +133,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1860" height="272" key="GridCell.Tab.0.bottom" timestamp="1663752778078">
+    <state width="1860" height="250" key="GridCell.Tab.0.bottom" timestamp="1666336921490">
       <screen x="0" y="28" width="1920" height="1014" />
     </state>
+    <state width="1860" height="250" key="GridCell.Tab.0.bottom/0.28.1920.1014@0.28.1920.1014" timestamp="1666336921490" />
     <state width="1860" height="272" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.28.1920.1014@0.28.1920.1014" timestamp="1663752778078" />
-    <state width="1860" height="272" key="GridCell.Tab.0.center" timestamp="1663752778078">
+    <state width="1860" height="250" key="GridCell.Tab.0.center" timestamp="1666336921490">
       <screen x="0" y="28" width="1920" height="1014" />
     </state>
+    <state width="1860" height="250" key="GridCell.Tab.0.center/0.28.1920.1014@0.28.1920.1014" timestamp="1666336921490" />
     <state width="1860" height="272" key="GridCell.Tab.0.center/1920.0.1920.1080/0.28.1920.1014@0.28.1920.1014" timestamp="1663752778078" />
-    <state width="1860" height="272" key="GridCell.Tab.0.left" timestamp="1663752778078">
+    <state width="1860" height="250" key="GridCell.Tab.0.left" timestamp="1666336921490">
       <screen x="0" y="28" width="1920" height="1014" />
     </state>
+    <state width="1860" height="250" key="GridCell.Tab.0.left/0.28.1920.1014@0.28.1920.1014" timestamp="1666336921490" />
     <state width="1860" height="272" key="GridCell.Tab.0.left/1920.0.1920.1080/0.28.1920.1014@0.28.1920.1014" timestamp="1663752778078" />
-    <state width="1860" height="272" key="GridCell.Tab.0.right" timestamp="1663752778078">
+    <state width="1860" height="250" key="GridCell.Tab.0.right" timestamp="1666336921490">
       <screen x="0" y="28" width="1920" height="1014" />
     </state>
+    <state width="1860" height="250" key="GridCell.Tab.0.right/0.28.1920.1014@0.28.1920.1014" timestamp="1666336921490" />
     <state width="1860" height="272" key="GridCell.Tab.0.right/1920.0.1920.1080/0.28.1920.1014@0.28.1920.1014" timestamp="1663752778078" />
     <state x="396" y="175" key="SettingsEditor" timestamp="1665726009445">
       <screen x="0" y="28" width="1920" height="1014" />
